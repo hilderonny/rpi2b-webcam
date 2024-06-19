@@ -9,7 +9,7 @@ into the home directory of the pi user. The website includes this image and refr
 First download and flash [Raspberry Pi OS (Legacy) Lite (Debian 11 BullsEye)](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2024-03-12/2024-03-12-raspios-bullseye-armhf-lite.img.xz).
 Make sure to use a **Debian 11 BullsEye** release, because only those releases contain the required `libcamera-jpeg` applications.
 
-Use the (Raspberry Pi Imager)[https://www.raspberrypi.com/software/] application for flashing and make sure to define an user `pi`, enable SSH and WiFi with an existing WLAN.
+Use the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) application for flashing and make sure to define an user `pi`, enable SSH and WiFi with an existing WLAN.
 
 ## Setup server script
 
